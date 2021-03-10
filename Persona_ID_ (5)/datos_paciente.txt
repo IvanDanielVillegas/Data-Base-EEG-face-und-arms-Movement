@@ -1,0 +1,10 @@
+Número de identificación del estudio: Ivan4
+Género del paciente: Masculino
+Edad del paciente: 23
+Altura del paciente (cm): 173
+Peso (Kg) del paciente: 22
+BMI del paciente: 7.350730061144709
+Ubicación del brazalete en el paciente: Derecho
+Paciente con condición de discapacidad: Si
+Frecuencia de muestreo de la MYO: 200 (Hz)
+Frecuencia de muestreo del Ultracortex (Cyton + Daisy): 125 (Hz)

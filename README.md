@@ -2,7 +2,7 @@
 Base de datos usada para el entrenamiento de una red convulucional 
 que clasifique entre gestos motores realizados por diferentes personas. 
 La base de datos subida no está limpia, por lo que hay grabaciones que 
-pueden no contener información útil. Los gestos son parpadeo del ojo 
+pueden no contener información útil, ademas todas las grabaciones se encuentran filtradas entre los 8 y 13 Hz (ritmo alpha). Los gestos son parpadeo del ojo 
 izquierdo en las carpetas llamadas gesto 1, parpadeo del ojo derecho en las carpetas gesto 2, levantamiento de cejas en gesto 3, mordida en gesto 4, 
 inactividad motora en gesto 5, levantamiento del brazo izquierdo en gesto 6, levantamiento del 
 brazo derecho en gesto 7.

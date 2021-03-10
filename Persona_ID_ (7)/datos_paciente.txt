@@ -1,0 +1,10 @@
+Número de identificación del estudio: Johas2
+Género del paciente: Femenino
+Edad del paciente: 17
+Altura del paciente (cm): 155
+Peso (Kg) del paciente: 45
+BMI del paciente: 18.730489073881373
+Ubicación del brazalete en el paciente: Derecho
+Paciente con condición de discapacidad: No
+Frecuencia de muestreo de la MYO: 200 (Hz)
+Frecuencia de muestreo del Ultracortex (Cyton + Daisy): 125 (Hz)

@@ -7,7 +7,7 @@ izquierdo en las carpetas llamadas gesto 1, parpadeo del ojo derecho en las carp
 inactividad motora en gesto 5, levantamiento del brazo izquierdo en gesto 6, levantamiento del 
 brazo derecho en gesto 7.
 
-![Distribucion de electrodos](/home/ivan/decargas/Sugerido_Me.jpg)
+![Distribucion de electrodos](https://github.com/IvanDanielVillegas/Data-Base-EEG-face-und-arms-Movement/blob/main/Sugerido_Me.jpg)
 
 |Electrodo|Canal|Electrodo|Canal|
 |---------|-----|---------|-----|

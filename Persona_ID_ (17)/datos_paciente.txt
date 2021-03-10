@@ -1,0 +1,10 @@
+Número de identificación del estudio: cristian
+Género del paciente: Femenino
+Edad del paciente: 23	
+Altura del paciente (cm): 176
+Peso (Kg) del paciente: 76
+BMI del paciente: 24.535123966942148
+Ubicación del brazalete en el paciente: Derecho
+Paciente con condición de discapacidad: Si
+Frecuencia de muestreo de la MYO: 200 (Hz)
+Frecuencia de muestreo del Ultracortex (Cyton + Daisy): 125 (Hz)

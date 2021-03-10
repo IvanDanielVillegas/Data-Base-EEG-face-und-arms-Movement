@@ -1,0 +1,10 @@
+Número de identificación del estudio: Cata
+Género del paciente: Femenino
+Edad del paciente: 21
+Altura del paciente (cm): 155
+Peso (Kg) del paciente: 52
+BMI del paciente: 21.64412070759625
+Ubicación del brazalete en el paciente: Derecho
+Paciente con condición de discapacidad: No
+Frecuencia de muestreo de la MYO: 200 (Hz)
+Frecuencia de muestreo del Ultracortex (Cyton + Daisy): 125 (Hz)

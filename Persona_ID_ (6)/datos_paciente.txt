@@ -1,0 +1,10 @@
+Número de identificación del estudio: Johanan
+Género del paciente: Femenino
+Edad del paciente: 17
+Altura del paciente (cm): 156
+Peso (Kg) del paciente: 45
+BMI del paciente: 18.49112426035503
+Ubicación del brazalete en el paciente: Derecho
+Paciente con condición de discapacidad: No
+Frecuencia de muestreo de la MYO: 200 (Hz)
+Frecuencia de muestreo del Ultracortex (Cyton + Daisy): 125 (Hz)
